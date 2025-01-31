@@ -1,0 +1,6 @@
+@media (min-width: 1024px) {
+    .right-section {
+      margin-left: 200px; /* Maintain margin for larger screens */
+      width: calc(100% - 200px); /* Adjust the width to account for the left margin */
+    }
+  }
