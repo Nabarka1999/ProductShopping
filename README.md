@@ -29,21 +29,22 @@ Due to security restrictions, APIs may not function correctly unless hosted loca
 ---
 
 ## **Screenshots**  
-### **Home Page**
-![Home Page](https://github.com/user-attachments/assets/281b05f2-54b8-42d5-bcbc-7c9e4063cd09)
 
-### **Product List**
-![Product List](https://github.com/user-attachments/assets/d43362d1-d139-46c7-9c36-2d7f2dfc848d)  
-
-### **Product Details**
-![Product Details](https://github.com/user-attachments/assets/859c3bf0-98c9-4893-af73-723442ba9ddd)  
-
-### **Pagination Example**
+### **Overview**
 ![Pagination](https://github.com/user-attachments/assets/f48bf040-eed8-4cd3-a7f5-8b839ccab420)  
 
-### **Responsive Design View**
+### **Product Details page**
 ![Responsive Design](https://github.com/user-attachments/assets/5c49ba43-e900-4a48-be1e-63a4e2f934d1)  
 
+
+### **Smart phone view**
+![Home Page](https://github.com/user-attachments/assets/281b05f2-54b8-42d5-bcbc-7c9e4063cd09)
+
+### **Sidebar**
+![Product List](https://github.com/user-attachments/assets/d43362d1-d139-46c7-9c36-2d7f2dfc848d)  
+
+### **Category Dropdown**
+![Product Details](https://github.com/user-attachments/assets/859c3bf0-98c9-4893-af73-723442ba9ddd) 
 ---
 
 Feel free to suggest additional changes if you'd like more styling tips or edits!
