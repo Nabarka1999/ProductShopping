@@ -48,3 +48,5 @@ Due to security restrictions, APIs may not function correctly unless hosted loca
 ---
 
 Feel free to suggest additional changes if you'd like more styling tips or edits!
+
+---
